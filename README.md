@@ -1,4 +1,4 @@
-# Multi-Installer - Android WebApp
+# Multi-Installer – Android WebApp
 ### Un piccolo WebBrowser in Java, per visualizzare i contenuti di <a href="https://multi-installer.it" target="blank">Multi-Installer.it</a> su Android
 
 ### Funzionalità:
