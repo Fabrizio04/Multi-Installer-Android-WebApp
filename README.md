@@ -7,6 +7,7 @@
 - [x] Orientamento orizzontale/verticale (no reload)
 - [x] Android loading spinner x caricamento pagine web
 - [x] Swipe to refresh (https://developer.android.com/training/swipe)
+- [x] Gestione JavaScript
 - [x] Gestione back history
 - [x] Gestione download file
 - [x] Gestione URL esterni
